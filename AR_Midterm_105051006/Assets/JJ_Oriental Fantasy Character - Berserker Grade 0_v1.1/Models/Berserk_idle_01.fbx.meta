@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 04fdad26efb93cc4fad0c8bb84fbb861
+guid: ad9aefba200efc442a49792f3967ca80
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -743,7 +743,7 @@ ModelImporter:
     second: ch_swordman_head_01
   - first:
       74: 7400000
-    second: "\u9ED1\u6BDB\u8DD1\u6B65"
+    second: "\u9ED1\u6BDB\u5F85\u6A5F"
   - first:
       95: 9500000
     second: //RootNode
@@ -791,11 +791,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: "\u9ED1\u6BDB\u8DD1\u6B65"
+      name: "\u9ED1\u6BDB\u5F85\u6A5F"
       takeName: Take 001
       internalID: 0
       firstFrame: 0
-      lastFrame: 16
+      lastFrame: 40
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -827,9 +827,9 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 1
+    importVisibility: 0
     importBlendShapes: 1
-    importCameras: 0
+    importCameras: 1
     importLights: 1
     fileIdsGeneration: 1
     swapUVChannels: 0
@@ -869,7 +869,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.0007
+    globalScale: 0.07
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
